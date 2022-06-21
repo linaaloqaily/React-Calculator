@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(255, 218, 123);
+}
+.calc{
+  border-style: solid;
+  margin: 10px;
+}
+
+h1{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+}
+
+.continer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.oprat{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.b{
+  margin: 10px;
+}
